@@ -9,21 +9,21 @@
 # ⚡ ThunderCats
 
 ## 👥 Integrantes
-- Matheus Moura  
-- Filipi Pires  
-- João Albuquerque  
+- <a href="https://www.linkedin.com/">Matheus Moura</a>  
+- <a href="https://www.linkedin.com/">Filipi Pires</a>  
+- <a href="https://www.linkedin.com/">João Albuquerque</a>  
 
 ## 🎓 Professores Orientadores
-- Victor Bruno  
-- Adriano Felix Valente  
-- Jose Carlos  
+- <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno</a>  
+- <a href="https://www.linkedin.com/in/victorbarq/">Adriano Felix Valente</a>  
+- <a href="https://www.linkedin.com/in/victorbarq/">Jose Carlos</a>  
 
 ---
 
 ## 📌 Descrição
 
 <p align="center">
-<img src="src/Frontend/ThunderCat - 20052024 (1)/src/assets/Logo Escrito 2 Azul PNG.png" alt="ThunderCat">
+<img src="frontend/ThunderCat - 20052024 (1)/src/assets/Logo Escrito 2 Azul PNG.png" alt="ThunderCat">
 </p>
 
 O **ThunderCats** é uma aplicação web desenvolvida em grupo com o objetivo de criar uma **rede social para adoção de pets**, conectando pessoas interessadas em adoção responsável.
