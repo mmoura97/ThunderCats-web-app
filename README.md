@@ -8,8 +8,6 @@
 
 # ⚡ ThunderCats
 
-## 🐾 Alvacoders
-
 ## 👥 Integrantes
 - Matheus Moura  
 - Filipi Pires  
