@@ -23,7 +23,7 @@
 ## 📌 Descrição
 
 <p align="center">
-<img src="frontend/ThunderCat - 20052024 (1)/src/assets/Logo Escrito 2 Azul PNG.png" alt="ThunderCat">
+<img src="frontend/src/assets/Logo Escrito 2 Azul PNG.png" alt="ThunderCat">
 </p>
 
 O **ThunderCats** é uma aplicação web desenvolvida em grupo com o objetivo de criar uma **rede social para adoção de pets**, conectando pessoas interessadas em adoção responsável.
